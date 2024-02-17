@@ -2,22 +2,6 @@
 
 An implementation TOTP [RFC 6238](http://tools.ietf.org/html/rfc6238) and HOTP [RFC 4226](http://tools.ietf.org/html/rfc4226) in C#.
 
-[![Build status](https://ci.appveyor.com/api/projects/status/renwlv60h7cfxs34?svg=true)](https://ci.appveyor.com/project/kspearrin/otp-net)
-
-## Get it on NuGet
-
-https://www.nuget.org/packages/Otp.NET
-
-```powershell
-Install-Package Otp.NET 
-```
-
-or
-
-```bash
-dotnet add package Otp.NET
-```
-
 ## Documentation
 
 - [TOTP (Timed One Time Password)](#totp-timed-one-time-password)
